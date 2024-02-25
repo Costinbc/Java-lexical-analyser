@@ -7,4 +7,5 @@ Checks for the presence and correctness of get-set methods for each variable in 
 
 Usage:
   make
+  
   ./tema [Input_File_Name] [Output_File_Name]
